@@ -1,0 +1,33 @@
+_repo: 240-000-miles-straight-up_70187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hubbard, L. Ron (La Fayette Ron)
+    aliases:
+    - Hubbard, L. Ronald
+    - Hubbard, La Fayette Ron
+    - Hubbard, La Fayette Ronald
+    - Hubbard, Lafayette Ronald
+    birthdate: 1911
+    deathdate: 1986
+    gutenberg_agent_id: '51446'
+    url: http://www.gutenberg.org/2009/agents/51446
+    wikipedia: https://en.wikipedia.org/wiki/L._Ron_Hubbard
+description: ''
+gutenberg_issued: '2023-03-02'
+identifiers:
+  gutenberg: '70187'
+language: en
+pgterms:marc905: 20220522044929hubbard
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 240,000 miles straight up
+url: http://www.gutenberg.org/ebooks/70187
