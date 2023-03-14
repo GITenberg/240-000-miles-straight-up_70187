@@ -1,5 +1,8 @@
 _repo: 240-000-miles-straight-up_70187
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70187-h/images/cover.jpg
 creator:
   author:
     agent_name: Hubbard, L. Ron (La Fayette Ron)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51446
     wikipedia: https://en.wikipedia.org/wiki/L._Ron_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70187#240-000-miles-straight-up
 gutenberg_issued: '2023-03-02'
 identifiers:
   gutenberg: '70187'
